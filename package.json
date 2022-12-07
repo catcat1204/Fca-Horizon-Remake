@@ -46,7 +46,7 @@
     "synthetic-horizon-database": "latest"
   },
   "engines": {
-    "node": ">=14.x <16.x"
+    "node": ">=14.x"
   },
   "devDependencies": {
     "eslint": "latest",
